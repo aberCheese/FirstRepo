@@ -1,4 +1,4 @@
 # FirstRepo
-myfirstrepo
-CHeese
+myfirstrepo\n
+CHeese\n
 Cheese 2
